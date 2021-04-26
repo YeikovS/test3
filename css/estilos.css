@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    height: fit-content;
+}
+header{
+    width: auto;
+    height: 250px;
+    background-color: brown;
+}
+#sub{
+    width: auto;
+    height: 100px;
+    margin-bottom: 0;
+    background-color: aquamarine;
+}
+main{
+    width: auto;
+    height: 900px;
+    background-color: orange;
+}
+#izq{
+    margin-left: 0;
+    width: 30%;
+    height: 900px;
+    background-color: darkmagenta;
+}
+section{
+    width: auto;
+    height: 900px;
+    background-color: yellowgreen;
+    display: flex;
+    flex-direction: row;
+}
+#der{
+    margin-right: 0;
+    width: 30%;
+    height: 900px;
+    background-color: gray;
+}
+
+footer{
+    width: auto;
+    height: 300px;
+    background-color: darkcyan;
+}
